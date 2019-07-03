@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.175,C:\Users\monqp\Desktop\Вес\Заготовки.dproj=C:\Users\monqp\Desktop\Вес\Заготовка.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.548,C:\Users\monqp\Desktop\Вес\Weight2.dproj=C:\Users\monqp\Desktop\Вес\Заготовки.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.674,C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj=C:\Users\monqp\Desktop\Вес\Weight\Цушпре2.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.484,C:\Users\monqp\Desktop\Вес\Заготовка.dproj=C:\Users\monqp\Desktop\Вес\Weight\Size.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\monqp\Desktop\Вес\Project1.dproj=C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.428,C:\Users\monqp\Desktop\Вес\Unit1.pas=C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,C:\Users\monqp\Desktop\Вес\Заготовка.dproj=C:\Users\monqp\Desktop\Вес\Заготовки.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.548,C:\Users\monqp\Desktop\Вес\Заготовки.dproj=C:\Users\monqp\Desktop\Вес\Weight2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj=C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj=C:\Users\monqp\Desktop\Вес\Weight\Size.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\monqp\Desktop\Вес\Weight2.dproj=C:\Users\monqp\Desktop\Вес\Weight.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\monqp\Desktop\Вес\Project1.dproj=C:\Users\monqp\Desktop\Вес\Weight.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,C:\Users\monqp\Desktop\Вес\Weight\Weight.dproj=C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\monqp\Desktop\Вес\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj=C:\Users\monqp\Desktop\Вес\Weight\Size.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj=C:\Users\monqp\Desktop\Вес\Weight\Цушпре2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,C:\Users\monqp\Desktop\Вес\Weight\Size.dproj=C:\Users\monqp\Desktop\Вес\Заготовка.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,C:\Users\monqp\Desktop\Вес\Weight\Size.dproj=C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.737,=C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.428,C:\Users\monqp\Desktop\Вес\Unit1.fmx=C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.577,C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj=C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.797,C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj=C:\Users\monqp\Desktop\Вес\Weight\Weight.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\monqp\Desktop\Вес\Weight\Size.dproj=C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\monqp\Desktop\Вес\Weight\Size.dproj=C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.618,C:\Users\monqp\Desktop\Вес\Weight\Цушпре2.dproj=C:\Users\monqp\Desktop\Вес\Weight\Weight2.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.208,C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj=C:\Users\monqp\Desktop\Вес\Weight\Size.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\monqp\Desktop\Вес\Weight.dproj=C:\Users\monqp\Desktop\Вес\Weight2.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\monqp\Desktop\Вес\Weight.dproj=C:\Users\monqp\Desktop\Вес\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,C:\Users\monqp\Desktop\Вес\Weight\Цушпре2.dproj=C:\Users\monqp\Desktop\Вес\Weight\Заготовка.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\monqp\Desktop\Вес\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\monqp\Desktop\Вес\Unit1.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5" Android="Meizu_M5"/>
+		<NoProfile iOSSimulator="iPhone5" Android="QXE5T18926009078"/>
 	</ActiveMobileDevice>
-	<BT_BuildType>Debug</BT_BuildType>
+	<BT_BuildType>AppStore</BT_BuildType>
 </BorlandProject>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- BEGIN_INCLUDE(manifest) -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.embarcadero.Weight"
+        package="com.weight.Weight"
         android:versionCode="1"
         android:versionName="1.0.0"
         android:installLocation="auto">
 
     <!-- This is the platform API where NativeActivity was introduced. -->
-    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="14" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.CALL_PHONE" />
-    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="28" />
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.READ_CALENDAR" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <uses-feature android:glEsVersion="0x00020000" android:required="True"/>
     <application android:persistent="False" 
         android:restoreAnyVersion="False" 
-        android:label="Weight" 
+        android:label="Debug" 
         android:debuggable="True" 
         android:largeHeap="False"
         android:icon="@drawable/ic_launcher"
@@ -34,7 +27,7 @@
         <!-- Our activity is a subclass of the built-in NativeActivity framework class.
              This will take care of integrating with our NDK code. -->
         <activity android:name="com.embarcadero.firemonkey.FMXNativeActivity"
-                android:label="Weight"
+                android:label="Debug"
                 android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
                 android:launchMode="singleTask">
             <!-- Tell NativeActivity the name of our .so -->
